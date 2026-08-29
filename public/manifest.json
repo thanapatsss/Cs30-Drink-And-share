@@ -1,0 +1,19 @@
+{
+  "name": "Bar Night — มินิเกม & หารบิล",
+  "short_name": "Bar Night",
+  "description": "มินิเกมวงเหล้าและเครื่องมือหารบิลแบบแยกรายการ",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#15121C",
+  "theme_color": "#15121C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
