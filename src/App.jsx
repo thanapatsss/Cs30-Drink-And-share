@@ -602,7 +602,7 @@ const GAME_LIST = [
   { id: "mostlikely", name: "ใครมีแนวโน้มจะ...", icon: Users, desc: "ชี้นิ้วหาคำตอบ" },
   { id: "truth", name: "Truth or Drink", icon: Sparkles, desc: "ตอบตรงๆ หรือดื่ม" },
   { id: "categories", name: "บอกหมวดหมู่", icon: Timer, desc: "จับเวลาแข่งไหวพริบ" },
-  { id: "count7", name: "นับเลขข้าม 7", icon: Beer, desc: "ปุ๊กให้ทัน ห้ามพลาด" },
+  { id: "count7", name: "นับเลขข้าม 7", icon: Beer, desc: "หมดเเก้วให้ทัน ห้ามพลาด" },
   { id: "kingscup", name: "ไพ่ราชา", icon: Sparkles, desc: "จั่วไพ่ลุ้นกติกา" },
 ];
 
